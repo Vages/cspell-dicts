@@ -1,5 +1,21 @@
 # Release Notes
 
+## [34.2.1](https://github.com/streetsidesoftware/cspell-dicts/compare/cspell-dicts@34.2.0...cspell-dicts@34.2.1) (2026-10-25)
+
+
+### Updates and Bug Fixes
+
+* **npm:** add @ngx-formly/core ([#5961](https://github.com/streetsidesoftware/cspell-dicts/issues/5961)) ([408f7fb](https://github.com/streetsidesoftware/cspell-dicts/commit/408f7fb2180ab469b843caf9f148749b4b73cd0d))
+* **npm:** add @trivago/prettier-plugin-sort-imports ([#5972](https://github.com/streetsidesoftware/cspell-dicts/issues/5972)) ([e40c255](https://github.com/streetsidesoftware/cspell-dicts/commit/e40c255d325695427d9fc41b23596a75fa8418e7))
+* **software-terms:** add preinstalls and preinstalling ([#5965](https://github.com/streetsidesoftware/cspell-dicts/issues/5965)) ([e1c4dfd](https://github.com/streetsidesoftware/cspell-dicts/commit/e1c4dfd4d63465947a3c636db75e2e0562900d02))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @cspell/dict-cspell-bundle bumped to 2.0.84
+
 ## [34.2.0](https://github.com/streetsidesoftware/cspell-dicts/compare/cspell-dicts@34.1.0...cspell-dicts@34.2.0) (2026-10-23)
 
 
